@@ -1,0 +1,12 @@
+[
+  {
+    "username": "op1",
+    "password": "$2a$10$RTMVIyPOmctPOM3BhK5a3eqoCtpje4.Cq1nnC30QaFOnuRL2Zggre",
+    "role": "operator"
+  },
+  {
+    "username": "test",
+    "password": "$2a$10$wArWxbS46PE5kZaSn11nFOi1VGpWNo5fGWab7V2U/ecks6C8cDkN.",
+    "role": "operator"
+  }
+]
